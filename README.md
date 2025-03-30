@@ -1,1 +1,1 @@
-# neurotonix.github.io
+# https://neurotonix.vercel.app
