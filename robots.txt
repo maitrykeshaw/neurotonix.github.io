@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://neurotonix.vercel.app
+Sitemap: https://neurotonix.vercel.app/sitemap.xml
