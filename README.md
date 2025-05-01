@@ -1,1 +1,1 @@
-# https://neurotonix.vercel.app
+# https://neurotonix.vercel.app/
